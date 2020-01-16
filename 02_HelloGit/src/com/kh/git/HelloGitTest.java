@@ -5,5 +5,6 @@ public class HelloGitTest {
 		System.out.println("김유정 바보");
 		System.out.println("조정우도 바보");
 		System.out.println("헤헷");
+		System.out.println("엣헴엣헴");
 	}
 }
